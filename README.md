@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Bienvenidos a mi perfil de Github!<br><br>Mi nombre es **Claudio Tilbe**, un apasionado de la tecnología y el desarrollo de software. Desde hace varios años he dedicado mi vida a esta rama, buscando un entendimiento profundo de uno de los sectores más dinámicos y transformadores del mundo actual.<br><br>Recientemente finalicé mis estudios como analista de sistemas en el instituto BIOS, entregando como proyecto de fin de carrera **OFA**, una aplicación web destinada al monitoreo de redes IPv4 que pueden encontrar en uno de mis repositorios.<br><br>Agradesco cualquier tipo de recomendación o feedback y desde ya muchas gracias por pasar por mi perfil.  
+¡Bienvenidos a mi perfil de Github!<br><br>Mi nombre es **Claudio Tilbe**, un apasionado de la tecnología y el desarrollo de software. Desde hace varios años he dedicado mi vida a esta rama, buscando un entendimiento profundo de uno de los sectores más dinámicos y transformadores del mundo actual.<br><br>Recientemente finalicé mis estudios como analista de sistemas en el instituto BIOS, entregando como proyecto de fin de carrera **OFA**, una aplicación web destinada al monitoreo de redes IPv4 que pueden encontrar en uno de mis repositorios.<br><br>Agradesco cualquier tipo de recomendación o feedback y desde ya muchas gracias por visitar mi perfil.  
 
 <br>
 
